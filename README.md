@@ -1,0 +1,1 @@
+Telegram auto-posting bot with AI content generation (Gemini). Connect channels, create scheduled posting tasks with custom style, language, length, and images, optionally use fresh web news, learn channel style, auto-publish posts, track stats, and manage subscriptions, invites, and admin tools.
